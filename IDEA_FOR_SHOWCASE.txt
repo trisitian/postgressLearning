@@ -1,0 +1,6 @@
+1. Create a an automated tool that, given a url
+    - Goes to url
+    - Finds sublayers for data
+    - Creates DB with specified sublayers 
+Interactive
+Easy creation 
