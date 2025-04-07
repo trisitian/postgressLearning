@@ -9,3 +9,7 @@ WHERE title = 'Outlaw Hanky'
 -- Determine phone number based off address
 SELECT phone from address
 where address = '259 Ipoh Drive'
+
+-- Determine how many movies are 50 mins or less
+SELECT count(*) FROM film
+WHERE length <= 50
